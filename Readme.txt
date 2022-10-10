@@ -1,5 +1,5 @@
-This is series of codes for Practice of DSA 
+********************************8***************This is series of codes for Practice of DSA***************************************************************
 
-Starting with Array Sorts 
+                                                        Starting with Array Sorts 
 
-Linear Search
+1). Linear Search
