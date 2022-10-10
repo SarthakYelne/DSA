@@ -7,11 +7,11 @@ void main()
     printf("\nEnter the Length of Array (Range 0<n<10) : ");
     scanf("%d",&r);
 
-    printf("\nEnter %d Elements of the Array...\n");
+    printf("\nEnter %d Elements of the Array...\n",r);
     
-    for(i=0;i<n;i++)
+    for(i=0;i<r;i++)
     {
-        scanf("%d",a[i]);
+        scanf("%d",&a[i]);
     }
 
     printf("\nlinear Search Element : ");
@@ -25,9 +25,9 @@ void main()
         }
     }
 
-    if(i>r)
+    if(i>=r)
     {
-        printf("\nThe Element %d is not present at any location...\n");
+        printf("\nThe Element %d is not present at any location...\n",n);
     }
 
 }
