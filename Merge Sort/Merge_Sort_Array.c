@@ -65,5 +65,6 @@ void main()
     {
         printf("%d \t",c[k]);
     }
+    
     printf("\n");
 }
