@@ -1,4 +1,4 @@
-***************This is series of codes for Practice of DSA*******************
+***************This is Series of Codes for Practice of DSA*******************
    
    Starting with Array Sorts 
 
